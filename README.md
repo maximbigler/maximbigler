@@ -9,8 +9,6 @@ Currently, I am:
 I recently completed my Bachelor of Science degree.
 Additionally, I developed the backend and managed the deployment for [https://ggkrotweiss.org/](https://ggkrotweiss.org/), a platform for dance groups.
 
-My Future plans are to do a Master's degree
-
 ### Languages & Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
